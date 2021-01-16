@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
